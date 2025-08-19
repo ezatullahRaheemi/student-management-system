@@ -1,0 +1,75 @@
+*
+{
+    padding:0;
+    margin:0;
+}
+
+
+.header
+{
+    background-color:cornflowerblue;
+    line-height: 70px;
+
+
+}
+.ad
+{
+    font-size:25px;
+}
+
+a {
+    padding-left:30px;
+    text-decoration: none;
+    color:white;
+}
+ a:hover
+{
+    color:blue;
+}
+.logout
+{
+    float:right;
+    padding-right: 30px;
+}
+.logout a
+{
+    background-color:green;
+    padding:10px;
+    border-radius: 12px;
+
+}
+ul
+{
+    width:16%;
+    height:100%;
+    text-align: center;
+    padding-top:5%;
+    position:fixed;
+
+
+    background-color:rgb(43, 36, 36);
+   
+   
+}
+ul li 
+{
+    list-style: none;
+    font-size:20px;
+    padding-bottom:30px;
+
+
+
+}
+ul li a
+{
+    font-weight: bold;
+}
+ul li a:hover
+{
+    color:green;
+}
+.contant
+{
+    margin-left:20%;
+    margin-top:2%;
+}

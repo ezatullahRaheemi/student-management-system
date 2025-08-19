@@ -1,0 +1,219 @@
+*
+{
+    padding:0;
+    margin:0;
+ }
+ 
+.logo
+{
+    position: relative;
+    left: 35px;
+    top: 6px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    line-height: 60px;
+} 
+nav
+{
+ position:fixed;
+ background-color:cornflowerblue;
+ height: 70px;
+ width:100%;
+}
+
+ul
+{
+    position:relative;
+    float:right;
+    margin-right: 20px;
+}
+
+ul li
+{
+    display: inline-block;
+    line-height: 60px;
+    margin: 0 20px;
+    color:white;
+}
+
+ul li a 
+{
+    text-decoration: none;
+   
+    font-size: 15px;
+}
+
+ul li a{
+    color:white;
+    font-size:18px;
+}
+ul li a:hover
+{
+    
+    color:black;
+}
+label:hover
+{
+    color:black;
+}
+.login a
+{
+    
+    background-color:darkgreen;
+    padding:9px;
+    border-radius: 10px;
+    
+}
+
+.main-img
+{
+    height:  300px;
+    width:100%;
+}
+.section1
+{
+    padding-top: 80px;
+    
+}
+.img-text
+{
+    position: absolute;
+    left: 30%;
+    top: 20%;
+    background-color: blueviolet;
+    padding-right:20px ;
+    padding-left: 20px;
+    color:white;
+    font-size:40px;
+}
+.img1
+{
+    height: 250px;
+    width: 300px;
+    padding-left: 50px;
+    padding-right: 20px;
+}
+
+.container
+{
+    padding-top:70px;
+    padding-right: 30px;
+}
+.par
+{
+    float: left;
+    padding: 10px 20px ; 
+    margin-left: 30px;
+}
+
+.list{
+    width:290px;
+    display:inline-block;
+    margin:40px;
+    
+    margin: top 5px;
+
+   font-size: 18px;
+   
+   
+}
+
+.pic{
+    width:100%;
+    height:200px;
+    margin-bottom:5px;
+    margin-top:0px ;
+
+}
+.la-te
+{
+    text-align: right;
+    padding-right: 10px;
+    width: 100px;
+}
+.inp
+{
+    width: 300px;
+    height: 40px;
+    border:1px solid green;
+    border-radius: 25px;
+}
+.inp-txt
+{
+    
+    width: 300px;
+    height: 100px;
+    border:1px solid green;
+    border-radius: 25px;
+}
+
+#submit
+{
+    position: relative;
+    width: 15%;
+    left: 5%;
+    margin-top: 10px;
+    padding:10px;
+    background-color:cornflowerblue;
+    font-size:15px;
+    color:white;
+}
+#submit:hover
+{
+    background-color: darkgreen;
+}
+
+input
+{
+    padding-left:9px;
+}
+
+
+.img2{
+    width: 50px;
+    margin: 15px 10px;
+    border-radius: 40%;
+    float:right;
+
+    
+
+}
+.img4{
+    border-radius: 50%;
+    width:50px;
+    padding-top:10px;
+
+
+}
+
+
+.address{
+
+    bottom: 15px;
+  
+   
+    width:100%;
+   height:40px;
+    display:block;
+    height:100px;
+    background-color: darkgoldenrod;
+
+   
+}
+/* .form
+{
+    text-align: center;
+    
+} */
+input[type=text]
+{
+    width: 300px;
+}
+.label1
+{
+    text-align: left;
+}
+
+
+
